@@ -8,7 +8,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Models-orange?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
+
 
 *A complete data science pipeline — from messy raw data to a live, interactive prediction dashboard.*
 
@@ -32,7 +32,7 @@
 - [Installation & Usage](#-installation--usage)
 - [Future Improvements](#-future-improvements)
 - [Disclaimer](#-disclaimer)
-- [Author](#-author)
+
 
 ---
 
