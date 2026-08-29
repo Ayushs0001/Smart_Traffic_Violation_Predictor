@@ -1,0 +1,17 @@
+Accuracy: 0.6286
+Macro-F1: 0.3701
+
+                    precision    recall  f1-score   support
+
+    Illegal U-Turn       0.18      0.04      0.06       107
+Mobile Phone Usage       0.14      0.02      0.03       195
+         No Helmet       0.47      0.93      0.62       187
+      No Seat Belt       0.42      0.61      0.50       221
+     Over Speeding       1.00      1.00      1.00       794
+       Overloading       0.29      0.80      0.43        64
+ Red Light Jumping       0.26      0.37      0.31       163
+        Wrong Lane       0.14      0.01      0.02       213
+
+          accuracy                           0.63      1944
+         macro avg       0.36      0.47      0.37      1944
+      weighted avg       0.57      0.63      0.57      1944

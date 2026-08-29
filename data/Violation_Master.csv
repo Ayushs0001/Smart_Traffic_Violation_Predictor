@@ -1,0 +1,10 @@
+Violation_ID,Violation_Type,Applicable_Vehicle,Penalty,Severity
+V01,Red Light Jumping,All,1000,High
+V02,Over Speeding,All,2000,High
+V03,No Helmet,Bike,500,Medium
+V04,No Seat Belt,Car/Bus/Truck/Taxi,1000,Medium
+V05,Wrong Lane,All,500,Medium
+V06,Mobile Phone Usage,All,1500,High
+V07,Illegal U-Turn,All,500,Medium
+V08,Stop Line Violation,All,500,Low
+V09,Overloading,Truck/Auto,2000,High

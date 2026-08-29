@@ -1,0 +1,16 @@
+Signal_ID,Junction_ID,Signal_Type,Red_Duration,Yellow_Duration,Green_Duration,Cycle_Time
+S001,J001,Automatic,46,5,85,136
+S002,J002,Automatic,90,3,73,166
+S003,J003,Manual,76,3,73,152
+S004,J004,Automatic,86,5,78,169
+S005,J005,Adaptive,47,5,51,103
+S006,J006,Manual,37,4,57,98
+S007,J007,Manual,40,4,30,74
+S008,J008,Automatic,76,5,46,127
+S009,J009,Manual,62,3,62,127
+S010,J010,Adaptive,88,3,85,176
+S011,J011,Adaptive,70,4,83,157
+S012,J012,Adaptive,70,5,68,143
+S013,J013,Adaptive,42,3,53,98
+S014,J014,Adaptive,78,3,64,145
+S015,J015,Manual,79,5,88,172

@@ -1,0 +1,16 @@
+Junction_ID,Junction_Name,Area,Road_Type,Number_of_Lanes,Signal_Type,Latitude,Longitude,Speed_Limit,Road_Condition
+J001,City Centre Junction,City Centre,Main Road,4,Automatic,18.482762,73.991914,60,Good
+J002,College Road Junction,College Road,Main Road,4,Automatic,18.589998,73.886298,60,Good
+J003,Market Square Junction,Market Square,Main Road,4,Manual,18.417206,73.753498,60,Average
+J004,Railway Station Junction,Railway Station,Residential,2,Automatic,18.387825,73.966553,40,Poor
+J005,Ring Road Junction,Ring Road,City Road,4,Adaptive,18.550735,73.919122,50,Average
+J006,Stadium Junction,Stadium,Main Road,5,Manual,18.376575,73.997673,60,Average
+J007,Hospital Chowk Junction,Hospital Chowk,Main Road,4,Manual,18.620133,73.770402,60,Average
+J008,Airport Road Junction,Airport Road,Highway,6,Automatic,18.424947,73.761721,80,Average
+J009,Industrial Area Junction,Industrial Area,Residential,3,Manual,18.461673,73.864127,40,Good
+J010,Riverside Junction,Riverside,Main Road,5,Adaptive,18.499984,73.794069,60,Average
+J011,Old Town Junction,Old Town,Main Road,4,Adaptive,18.553956,73.748548,60,Good
+J012,Tech Park Junction,Tech Park,Residential,3,Adaptive,18.458043,73.816609,40,Average
+J013,Bus Depot Junction,Bus Depot,Residential,2,Adaptive,18.507221,73.942253,40,Good
+J014,Highway Entry Junction,Highway Entry,Residential,2,Adaptive,18.430302,73.86097,40,Good
+J015,Civil Lines Junction,Civil Lines,Residential,3,Manual,18.548124,73.720635,40,Good
